@@ -1,0 +1,11 @@
+list=["rahul","Kaosar","Nurul","Dolon","Shoikot","Azad","Moksed","Ibrahim","Monzur"]
+#or gondho in list:
+    
+#   print(gondho)
+#for i in #range(len(list)):
+#    print(i)
+y=6
+while y < len(list):
+    print(list[y])
+    y=y+5
+
